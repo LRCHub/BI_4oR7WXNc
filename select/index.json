@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アンチフェイム",
+  "base_artist": "雨良",
+  "createdAt": "2026-02-12T10:46:24.630020Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンチフェイム (feat. 初音ミク)",
+      "artist": "雨良",
+      "has_synced": false,
+      "path": "select/pl_01_アンチフェイム_(feat._初音ミク)_雨良.txt"
+    }
+  ]
+}
